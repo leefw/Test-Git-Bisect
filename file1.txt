@@ -1,3 +1,4 @@
 The initial version of the file
 Text added to the file - alpha mode functionality
 Last entry before tagging 1.0a
+First entry after 1.0a tagging
