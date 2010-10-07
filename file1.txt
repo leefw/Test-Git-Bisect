@@ -5,4 +5,4 @@ First entry after 1.0a tagging
 More content added for next release
 Even more content added here
 Added even more content here 
-Oops - a bug was introduced here
+Bug Fix introduced here
