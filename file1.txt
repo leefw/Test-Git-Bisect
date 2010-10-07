@@ -12,3 +12,4 @@ A test user has spotted the bug - files bug report
 Developers add more content and functionality
 Last entry before tagging 1.0b
 First entry after 1.0b tagging
+Developer assigned to find bug - last entry before running bisect
