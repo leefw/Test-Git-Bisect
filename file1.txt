@@ -9,3 +9,4 @@ Oops - a bug was introduced here
 Everyone is busy with their of own thing
 More content added here
 A test user has spotted the bug - files bug report
+Developers add more content and functionality
