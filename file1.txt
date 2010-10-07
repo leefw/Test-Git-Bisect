@@ -5,7 +5,7 @@ First entry after 1.0a tagging
 More content added for next release
 Even more content added here
 Added even more content here 
-Oops - a bug was introduced here
+Bug Fix introduced here
 Everyone is busy with their of own thing
 More content added here
 A test user has spotted the bug - files bug report
